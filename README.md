@@ -1,2 +1,3 @@
 # suraj-demo
-this is my first rep
+this is my first repo
+author _ suraj
